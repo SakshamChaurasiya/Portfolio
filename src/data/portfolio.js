@@ -22,6 +22,21 @@ export const portfolioData = {
       "Render"
     ],
   },
+  experience: [
+    {
+      role: "Full Stack Developer Intern",
+      company: "LeoMonk",
+      duration: "April 2024 - Present",
+      location: "Remote",
+      description: "Built and maintained scalable full-stack applications using Express.js, React.js, Node.js, with Next.js and PostgreSQL, deployed via cloud platforms with CI/CD pipelines.",
+      achievements: [
+        "Designed and optimized RESTful APIs for complex data workflows, improving query performance through targeted database indexing and query refactoring",
+        "Implemented Sequelize ORM for structured backend data management; resolved critical database relationship bugs, improving API consistency and reliability",
+        "Developed responsive, dynamic UI components using React.js and Next.js, enhancing data visualization and user experience across multiple product features"
+      ],
+      technologies: ["Express.js", "React.js", "Node.js", "Next.js", "PostgreSQL", "Sequelize", "CI/CD", "Cloud Platforms"]
+    }
+  ],
   projects: [
     {
       id: 1,

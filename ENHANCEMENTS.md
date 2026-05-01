@@ -65,6 +65,11 @@ Your portfolio has been upgraded with premium design elements, smooth animations
 - **Loading Screen**: Premium loading animation with progress bar
 - **Scroll Progress**: Top bar showing scroll progress
 - **Smooth Page Transitions**: Fade-in effect when content loads
+- **Smooth Scrolling**: Buttery-smooth scroll using Lenis library
+  - 1.2s duration for smooth deceleration
+  - Custom easing function for natural feel
+  - Works with mouse wheel and trackpad
+  - Disabled on touch devices for native feel
 
 ### Component Animations
 - **Hero Section**:
@@ -180,6 +185,7 @@ Your portfolio has been upgraded with premium design elements, smooth animations
 - **Vite 8**: Fast build tool and dev server
 - **Tailwind CSS 4**: Utility-first CSS framework
 - **Framer Motion 12**: Animation library
+- **Lenis**: Smooth scrolling library
 - **Lucide React**: Modern icon library
 - **EmailJS**: Contact form integration
 
@@ -196,6 +202,7 @@ Your portfolio has been upgraded with premium design elements, smooth animations
 - `src/components/ScrollProgress.jsx` - Scroll progress indicator
 - `src/components/CustomCursor.jsx` - Custom animated cursor (desktop only)
 - `src/components/InteractiveBackground.jsx` - Interactive particle background with hover effects
+- `src/components/SmoothScroll.jsx` - Smooth scrolling wrapper using Lenis
 
 ### Enhanced Components
 - `src/App.jsx` - Added loading state and scroll progress

@@ -29,7 +29,6 @@
     @apply bg-slate-50 text-slate-900 transition-colors duration-300 antialiased selection:bg-primary-500 selection:text-white;
     font-feature-settings: 'cv11', 'ss01';
     font-variation-settings: 'opsz' 32;
-    scroll-behavior: smooth;
   }
   
   .dark body {
@@ -41,11 +40,6 @@
     * {
       cursor: none !important;
     }
-  }
-
-  /* Smooth scrolling */
-  html {
-    scroll-behavior: smooth;
   }
 
   /* Custom scrollbar */

@@ -26,7 +26,7 @@ export const portfolioData = {
     {
       role: "Full Stack Developer Intern",
       company: "LeoMonk",
-      duration: "April 2024 - Present",
+      duration: "January 2024 - Present",
       location: "Remote",
       description: "Built and maintained scalable full-stack applications using Express.js, React.js, Node.js, with Next.js and PostgreSQL, deployed via cloud platforms with CI/CD pipelines.",
       achievements: [
@@ -48,6 +48,15 @@ export const portfolioData = {
     },
     {
       id: 2,
+      title: "Topiq – AI-Powered Exam Preparation Platform",
+      description: "A full-stack AI platform that transforms unstructured syllabuses and scanned PDFs into daily study roadmaps using Google Gemini AI, featuring PYQ cross-referencing and a gamified XP/streak progression engine.",
+      techStack: ["MongoDB", "Express.js", "React", "Node.js", "Google Gemini AI", "JWT", "Cloudinary"],
+      liveLink: "topiq-ssp.vercel.app",
+      githubLink: "https://github.com/SakshamChaurasiya/Topiq-Smart_Syllabus_Planner_and_Exam_Prep",
+    }
+    ,
+    {
+      id: 3,
       title: "Live-Ease",
       description: "An Airbnb-style booking platform with authentication, property listings, reservations, and location-based search.",
       techStack: ["Node.js", "Express.js", "MongoDB", "EJS", "Mapbox", "Cloudinary"],
@@ -55,7 +64,7 @@ export const portfolioData = {
       githubLink: "https://github.com/SakshamChaurasiya/LiveEase",
     },
     {
-      id: 3,
+      id: 4,
       title: "Viltrum Voice",
       description: "A real-time chat application with instant messaging, multiple UI themes, and image sharing capabilities.",
       techStack: ["React", "Express.js", "Socket.io", "MongoDB"],
@@ -63,7 +72,7 @@ export const portfolioData = {
       githubLink: "https://github.com/example/task-saas",
     },
     {
-      id: 4,
+      id: 5,
       title: "AI Resume Analyzer",
       description: "An AI-powered resume screening tool that automates parsing, scoring, and job-fit analysis using workflow automation.",
       techStack: ["n8n", "OpenAI API", "Google Drive API", "Google Sheets"],

@@ -26,7 +26,7 @@ export const portfolioData = {
     {
       role: "Full Stack Developer Intern",
       company: "LeoMonk",
-      duration: "January 2024 - Present",
+      duration: "January 2026 - Present",
       location: "Remote",
       description: "Built and maintained scalable full-stack applications using Express.js, React.js, Node.js, with Next.js and PostgreSQL, deployed via cloud platforms with CI/CD pipelines.",
       achievements: [

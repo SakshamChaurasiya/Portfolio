@@ -26,7 +26,7 @@ export const portfolioData = {
     {
       role: "Full Stack Developer Intern",
       company: "LeoMonk",
-      duration: "January 2026 - Present",
+      duration: "January 2026 - July",
       location: "Remote",
       description: "Built and maintained scalable full-stack applications using Express.js, React.js, Node.js, with Next.js and PostgreSQL, deployed via cloud platforms with CI/CD pipelines.",
       achievements: [
@@ -35,7 +35,8 @@ export const portfolioData = {
         "Developed responsive, dynamic UI components using React.js and Next.js, enhancing data visualization and user experience across multiple product features"
       ],
       technologies: ["Express.js", "React.js", "Node.js", "Next.js", "PostgreSQL", "Sequelize", "CI/CD", "Cloud Platforms"]
-    }
+    },
+    { "role": "Full Stack & AI Engineer", "company": "Samprakshi Infinity Solution", "duration": "July 2026 - Present", "location": "Indore", "description": "Architect and scale intelligent full-stack applications, seamlessly integrating LLMs and AI workflows with Express.js, React.js, Node.js, Next.js, and PostgreSQL, deployed via cloud-native CI/CD pipelines.", "achievements": ["Designed and optimized AI-powered RESTful APIs and intelligent data workflows, improving query performance through targeted database indexing and refactoring", "Implemented Sequelize ORM for structured backend data management and AI vector storage, resolving critical database relationship bugs to improve system reliability", "Developed responsive, dynamic UI components using React.js and Next.js, enhancing user interactions with generative AI features and complex data visualizations"], "technologies": ["Express.js", "React.js", "Node.js", "Next.js", "PostgreSQL", "Sequelize", "AI Integration", "LLMs", "CI/CD", "Cloud Platforms"] }
   ],
   projects: [
     {
